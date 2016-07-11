@@ -1,0 +1,6 @@
+windows
+linux
+unix
+aix
+centos
+ubuntu

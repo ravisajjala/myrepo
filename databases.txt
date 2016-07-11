@@ -1,0 +1,6 @@
+oracle
+db2
+terradata
+hana
+mysql
+mssql
